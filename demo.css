@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0;}
+
+div {
+    width: 30%;
+    padding-bottom: 30%;
+    float: left;
+    margin: 2.5% 0 0 2.5%;
+    border-radius: 4%;
+    background: orange;
+}
