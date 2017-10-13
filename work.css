@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    position: absolute;
+    height: 50px;
+    background-color: #68CDD5;
+    width: 100%;
+    text-align: center;
+}
+.row{
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    background-color: #68CDD5;
+}
